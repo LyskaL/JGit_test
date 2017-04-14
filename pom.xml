@@ -6,5 +6,5 @@
  </parent>
   <groupId>common</groupId>
   <artifactId>parent</artifactId>
-  <version>10.5</version>
+  <version>10.0</version>
   <packaging>pom</packaging>
