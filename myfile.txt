@@ -1,1 +1,1 @@
-new myfile.txt
+myfile.txt
