@@ -1,1 +1,10 @@
 <?xml version="1.0"?>
+ <parent>
+    <artifactId>master</artifactId>
+    <groupId>STG</groupId>
+    <version>1.3.0</version>
+ </parent>
+  <groupId>common</groupId>
+  <artifactId>parent</artifactId>
+  <version>10.5</version>
+  <packaging>pom</packaging>
