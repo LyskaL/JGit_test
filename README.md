@@ -1,2 +1,1 @@
-# JGit_test I changed this file!
-  JGit_test I changed this file!
+The repository for the test is jgit library
