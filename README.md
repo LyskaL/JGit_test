@@ -1,1 +1,1 @@
-The repository for the test is jgit library!
+The repository for the test is JGit library!
